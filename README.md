@@ -1,16 +1,40 @@
 # mixed_messages_kadea
+Fanny message Generate automatically 
+## About the project  
 
-create-sets-random-words // this is a branch
-
-
-the program generate a sentence from 3 sets of randoms words
-the program gives the option to stop the program by entering the number less than 2 
-if the number is greater than one the program execute again
-
-
-the username julmug is actually landryk69
+- Program is generating random messages
+- the program is using 3 sources for data to make sure the message is really random
+- the program is using the function "generator" to generator a random message
 
 
+```javascript
+Math.random()
+```
+```javascript
+Math.random()
+```
+```javascript
+Array
+```
+
+ To run the program , we use the follow command in terminal with node.js
+```bash
+node index.js
+```
+the program output on a random sentence
+### Fisrt output
+```text
+they kill a girl
+```
+### Second output
+```text
+they eat goat
+```
 
 
-NB: the nain branch was created after and the old main is now develop
+## Documentation
+- More about [Math.ramdon()] https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Math/random 
+- More about [Math.floor] https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
+- More about[array] https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+
