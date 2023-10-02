@@ -1,4 +1,4 @@
-// ocde here
+// code here
 let set1 = ['i', 'you', 'he','she', 'we', 'they' ]
 
 let set2 = ['Accept', 'fuck', 'suck', 'kill', 'kiss', 'eat','get', 'touch', 'marry']
